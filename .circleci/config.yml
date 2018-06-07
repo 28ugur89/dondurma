@@ -6,8 +6,8 @@ version: 2
 jobs:
   build:
     docker:
-      # specify the version you desire here. bunu kullanıyorum çünkü build işlemi gerekli
-      #her yüklemeyi otomatikleştiriyor
+      # specify the version deneme . bunu kullanıyorum çünkü build işlemi gerekli
+      #her yüklemeyi
       - image: springframeworkguru/circleci_build
 
       # Specify service dependencies here if necessary
