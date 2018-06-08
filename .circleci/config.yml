@@ -6,7 +6,7 @@ version: 2
 jobs:
   build:
     docker:
-      # specify the version  cikolata kullanıyorum çünkü build işlemi gerekli
+      # specify the version  bayram kullanıyorum çünkü build işlemi gerekli
       #her yüklemeyi
       - image: springframeworkguru/circleci_build
 
